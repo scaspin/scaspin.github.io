@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+h1 {
+  color:#99BADD;
+  margin:0 0 20px;
+}
+
+footer {
+  width:270px;
+  float:left;
+  position:absolute;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
