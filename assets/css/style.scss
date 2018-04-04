@@ -10,7 +10,10 @@ h1 {
 header ul {
   line-height:40px;
   list-style:none;
-  width:251px;
+  background: #FFFFFF;
+  border-radius:0px;
+  border:0px solid #FFFFFF;
+  width:270px;
 }
 
 /*Bookshelf Bookelement*/
@@ -107,7 +110,7 @@ header ul {
 }
 
 
-header button {
+ button {
     display: inline-block;
     height: 40px;
     width: 40px;
