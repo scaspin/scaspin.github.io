@@ -10,8 +10,6 @@ h1 {
 header ul {
   line-height: 40px;
   list-style:none;
-  height:40px;
-  padding:0;
   background: #f4f4f4;
   border-radius:0px;
   border:0px solid #e0e0e0;
@@ -22,4 +20,10 @@ header ul {
 //   columns: 2;
 //   -webkit-columns: 2;
 //   -moz-columns: 2;
+// }
+
+// ul d1{
+//     -webkit-column-count: 3; /* Chrome, Safari, Opera */
+//     -moz-column-count: 3; /* Firefox */
+//     column-count: 3;
 // }
