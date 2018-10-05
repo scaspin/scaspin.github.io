@@ -17,12 +17,9 @@ header ul {
   border:0px solid #e0e0e0;
   width:270px;
 }
-div{
 
-  font-size: 22px ;
-  line-height: 1.3em;
-  vertical-align: top;
-  margin-bottom: 1em;
-  border-radius: 0em;
-  width: 45%;
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
